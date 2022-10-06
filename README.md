@@ -10,4 +10,4 @@
 ![5](https://user-images.githubusercontent.com/73031725/194087486-02ddfecf-622d-4179-9a76-f90531681d25.png)
 
 
-<h3> If you observe there are 5 sections in this challlenge, you can go ahead and create an issue stating which section you want to work on, and tagg any of the repo owners/maintainers to assign you the issue, after that you can start working on it.🥂</h3>
+<h3> If you observe there are 5 sections in this challlenge, you can go ahead and create an issue stating which section you want to work on, and tag any of the repo owners/maintainers to assign you the issue, after that you can start working on it.🥂</h3>
