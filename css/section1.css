@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+}
+body {
+    background-image: url(../images/sec2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headphone {
+    top: 5rem;
+    right: 10rem;
+    position: absolute;
+    height: 80vh;
+    width: auto;
+}
+.logo {
+    margin: 8rem;
+}
+.headings {
+    margin-left: 10rem;
+    margin-bottom: 4rem;
+    font-size: 4rem;
+}
+button {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 20px;
+    border-style: none;
+    cursor: pointer;
+    margin-right: 1rem;
+}
+.button {
+    margin-left: 10rem;
+}
