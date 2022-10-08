@@ -1,12 +1,18 @@
-p,h2,h1{
+p,h2,h1,h3{
 
     font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-size: x-small; 
+    margin-bottom: 2.1em;
+    
 }
 p
 {
     font-size: x-small;
     font-weight: 500;
 }
+
 #bg2{
     position:absolute;
     top: 0; 
@@ -23,4 +29,36 @@ p
 #wifi{
     position: absolute;
     top: 5%; /*change this while adding other sections*/
- 
+    right: 5%;
+}
+#bg5
+{
+    position:absolute;
+    top: 100%; /*change this while adding other sections*/
+    left: 0;
+}
+.ab
+{
+    position: absolute;
+    top: 125%; /*change this while adding other sections*/
+    left: 7%;   
+}
+.ac
+{
+    position: absolute;
+    top:125%; /*change this while adding other sections*/
+    right: 35%;
+}
+.ad
+{
+    position: absolute;
+    top:125%; /*change this while adding other sections*/
+    right: 15%;    
+}
+.ae
+{
+    margin-top: 5em;
+}
+a{ text-decoration: none;
+    color: black;
+}
