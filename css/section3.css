@@ -112,3 +112,60 @@ body{
     border: none;
     margin-bottom: 9.5rem;
 }
+
+.fourth{
+    background-image: url(../images/bggradient.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+.left{
+    float: left;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    gap: 10rem;
+    margin: 2rem 0rem 10rem 10rem;
+}
+
+.expert{
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.expert h2{
+    font-weight: 400;
+    font-size: 4rem;
+}
+
+.right{
+    width: 60rem;
+    height: 60rem;
+    border-radius: 0rem 5rem 0rem 0rem;
+    margin-bottom: 0rem;
+    background-image: url(../images/support.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10rem 10rem 10rem 0rem;
+}
+
+.locations{
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.locations h5{
+    font-weight: 700;
+    font-size: 2rem;
+}
